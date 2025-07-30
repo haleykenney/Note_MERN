@@ -12,9 +12,9 @@ Highlights:
 ---
 ### how to run my application: 
 
-## 🧪 .env Setup
+# .env Setup
 
-### Backend (`/backend`)
+## Backend (`/backend`)
 
 ```
 MONGO_URI=<your_mongo_uri>
@@ -25,7 +25,7 @@ UPSTASH_REDIS_REST_TOKEN=<your_redis_rest_token>
 NODE_ENV=development
 ```
 
-## 🔧 Run the Backend
+# Run the Backend
 
 ```
 cd backend
@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-## 💻 Run the Frontend
+# Run the Frontend
 
 ```
 cd frontend
